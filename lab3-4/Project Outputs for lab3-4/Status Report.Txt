@@ -1,0 +1,10 @@
+Output: Protel
+Type  : ProtelNetlist
+From  : Project [lab3-4.PrjPcb]
+   Generated File[Lab3-4.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 7:19:50 PM On 2024-02-02
