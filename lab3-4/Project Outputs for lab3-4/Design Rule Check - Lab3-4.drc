@@ -1,18 +1,15 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\a_hui\Altium\Projects\Lab3-4\lab3-4\Project Outputs for lab3-4\Lab3-4.PcbDoc
-Date     : 2024-02-03
-Time     : 8:15:22 PM
-
-Processing Rule : Clearance Constraint (Gap=0.4mm) (All),(All)
-   Violation between Clearance Constraint: (0.27mm < 0.4mm) Between Pad Q1-2(124.46mm,96.52mm) on Multi-Layer And Pad Q1-3(124.46mm,97.79mm) on Multi-Layer 
-   Violation between Clearance Constraint: (0.27mm < 0.4mm) Between Pad Q1-3(124.46mm,97.79mm) on Multi-Layer And Track (124.46mm,95.25mm)(124.46mm,96.52mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.27mm < 0.4mm) Between Pad Q1-3(124.46mm,97.79mm) on Multi-Layer And Track (124.46mm,96.52mm)(125.73mm,96.52mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.27mm < 0.4mm) Between Pad Q2-2(124.46mm,104.14mm) on Multi-Layer And Pad Q2-3(124.46mm,105.41mm) on Multi-Layer 
-   Violation between Clearance Constraint: (0.27mm < 0.4mm) Between Pad Q2-3(124.46mm,105.41mm) on Multi-Layer And Track (124.46mm,102.87mm)(124.46mm,104.14mm) on Bottom Layer 
-Rule Violations :5
+Date     : 2024-02-04
+Time     : 8:27:42 AM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.4mm) (All),(All)
+   Violation between Clearance Constraint: (0.27mm < 0.4mm) Between Pad Q1-2(124.46mm,96.52mm) on Multi-Layer And Pad Q1-3(124.46mm,97.79mm) on Multi-Layer 
+   Violation between Clearance Constraint: (0.27mm < 0.4mm) Between Pad Q2-2(124.46mm,104.14mm) on Multi-Layer And Pad Q2-3(124.46mm,105.41mm) on Multi-Layer 
+Rule Violations :2
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
@@ -58,6 +55,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 9
+Violations Detected : 6
 Waived Violations : 0
 Time Elapsed        : 00:00:01
